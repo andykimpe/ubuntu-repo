@@ -1,0 +1,58 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Suite: xenial
+Codename: xenial
+Version: 16.04
+Date: Wed, 23 Aug 2017 19:54:55 UTC
+Architectures: i386 amd64
+Components: main
+Description: My packages for Ubuntu Xenial (16.04)
+MD5Sum:
+ 583a15410a3f0a7542836cdb47d78d9f 995 main/binary-i386/Packages
+ 0bf77d18a3a2bd464137d5543f4c2df9 637 main/binary-i386/Packages.gz
+ 91b703492bc4ee3a58181cee9f3f41ad 679 main/binary-i386/Packages.bz2
+ 68cd3707ad37686fae28e6443bc3f597 117 main/binary-i386/Release
+ 9469ec7c05e5eca99eee7f1650ac51a1 997 main/binary-amd64/Packages
+ 270cde679c98afd4766bbed34dcf2a53 638 main/binary-amd64/Packages.gz
+ a43bb3622532e0388e87b30e860597d0 680 main/binary-amd64/Packages.bz2
+ 733663e6b8f60e98d27c39f28bfbd34d 118 main/binary-amd64/Release
+ b6ff34c29034adf2bfb28a2c25d7a887 5643 main/source/Sources
+ 0c7fc42f888c685f39b01e2737a052ef 2143 main/source/Sources.gz
+ 8ac4c3eebf5491a2106a7655835439bf 2248 main/source/Sources.bz2
+ da043ef53754d19af4e0f3700d4cc3da 119 main/source/Release
+SHA1:
+ a3f436b7af34726bfd1f6e3f35e25d159bb602d7 995 main/binary-i386/Packages
+ 89756338b3b9f5c19936c6fbb4e1b18050a74542 637 main/binary-i386/Packages.gz
+ 25511202c62bbb64323ff8ba15729433afa959d6 679 main/binary-i386/Packages.bz2
+ 6472ee6d504602b520dc51f79218412e4f03ecaa 117 main/binary-i386/Release
+ 89109e62280bc71652c70fea94f2561c217eb2a6 997 main/binary-amd64/Packages
+ 04f9265b82ec126d01d67456e58ecb46894f1d75 638 main/binary-amd64/Packages.gz
+ e72c84d1a5802c5fef0509951f69695cbebbb9f4 680 main/binary-amd64/Packages.bz2
+ 8f73570a8ce357bbf769b1edde220d3805fb268f 118 main/binary-amd64/Release
+ 78d2d84f8ad4a7080cd6de0caee2a5a1f55f75cf 5643 main/source/Sources
+ 3c7c01faff7f0501bcd3af2f413751cf30bdcc28 2143 main/source/Sources.gz
+ c1daa5ff679b9be3b476b982255e0c55179140c2 2248 main/source/Sources.bz2
+ 45a91bbdd2dd5a9e90bf5f541f161aae32b6ddad 119 main/source/Release
+SHA256:
+ 788d738a92cd7b3dfb7a47c020ee080b86bfe7916e5c8980faef0c65603dfb10 995 main/binary-i386/Packages
+ 33b1185881950f5f9689540e8278576d2fef57ea4c180be309298d0d380441ec 637 main/binary-i386/Packages.gz
+ b5cdb908ab488af7bb10dd9b268fa4234414533f3cb30d225fcec25aa898b776 679 main/binary-i386/Packages.bz2
+ 549fb71afea58fa28b4dcd1cc3f8de65bcb0cc551323366d679fe90c06900767 117 main/binary-i386/Release
+ 789bb5eae117f7ab3c5898354436fb508fed330f4e8b716adfa7adc568747ec3 997 main/binary-amd64/Packages
+ a012709ca351edea36b3b9440b2d0bf2731fcae29134826c0cb0a5b6828b3930 638 main/binary-amd64/Packages.gz
+ 326256d650891c66072c04fae7c5970edc61f7dc11ab836ac68d02813a2a93bd 680 main/binary-amd64/Packages.bz2
+ ae098712592850b2df8209be9cfa034a44ee509516b4a92b1125c6e9e4c829a3 118 main/binary-amd64/Release
+ a5228b471d3119ea4a9281760ef5953337f0db3d65b0f2fd082e43803fee394c 5643 main/source/Sources
+ 9b3299d1595f56095e27389ab698c4e6770c67c46564ed0c0ad4c12a476f9e30 2143 main/source/Sources.gz
+ b0b04ad1c52b8c6d469f08d5d67bf6b8dea1155694743a80d5d6d0ea2b94de18 2248 main/source/Sources.bz2
+ 5949ae2700276b5110ac021c86b3c177e579fc5462e8c234a77645c84a585d83 119 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iJwEAQEIAAYFAlmd3ZAACgkQotOGsA+RqAmVSwQAsSZy8wFpF5b1nLh5LovD/FJk
+FDaZTuX8ZxRGkCzGfTN/MQEP+cSKRr2aYKSuKoufG6dLVnlNx7Y26ExUu4Evi4QL
+Ud3grb/xscTrZJGosiTikf3rgCJBupKbrGN1VEn8hr2eVL8vwbgWncmGpxMP/d5f
+eAjYLJOgIzwa9DqcsFM=
+=whPY
+-----END PGP SIGNATURE-----

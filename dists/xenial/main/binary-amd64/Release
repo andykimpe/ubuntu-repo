@@ -1,0 +1,5 @@
+Archive: xenial
+Version: 16.04
+Component: main
+Architecture: amd64
+Description: My packages for Ubuntu Xenial (16.04)

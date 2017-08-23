@@ -1,0 +1,46 @@
+Suite: trusty
+Codename: trusty
+Version: 14.04
+Date: Wed, 23 Aug 2017 19:03:28 UTC
+Architectures: i386 amd64
+Components: main
+Description: My packages for Ubuntu trusty (14.04)
+MD5Sum:
+ 84d0650a7eaa11237e5e5be426becc13 1495 main/binary-i386/Packages
+ 8851e89f721e63a1b945e6fdd8886a84 863 main/binary-i386/Packages.gz
+ ba29078d8792ef7c2dfc24b24696b29b 924 main/binary-i386/Packages.bz2
+ 63b124c3d97abdd5222c231d31b9801a 117 main/binary-i386/Release
+ f419503fba2f29adab4d8b858d8c7a34 1499 main/binary-amd64/Packages
+ 6a6e1d768cc5fa315bae72ef4512ba46 865 main/binary-amd64/Packages.gz
+ 3cdde1ac2c554749e709effe1ef5585b 917 main/binary-amd64/Packages.bz2
+ d33772825d2255b23d6f1aa0dcd2d974 118 main/binary-amd64/Release
+ d545c838a4a89b2853bbdff877be3704 2794 main/source/Sources
+ 52f9cb32aea7154a7217b28378e9636f 1315 main/source/Sources.gz
+ b87ca5d490a80f9b71ebf18bdb9cd6f8 1439 main/source/Sources.bz2
+ 5ad6144547ec49b099b3e9eceb48cb6b 119 main/source/Release
+SHA1:
+ 04066d1df5e72c9b80c6adf26733425d46493308 1495 main/binary-i386/Packages
+ 03defa72a790916862d9390dd6478b53853042c5 863 main/binary-i386/Packages.gz
+ d5baff181ed71d485027c848d90c623a1fb38b5a 924 main/binary-i386/Packages.bz2
+ bedd216c922914ff1bd3e473851959693f1c8a18 117 main/binary-i386/Release
+ 04faa170fee58ed635c94677069239b7c9549b5c 1499 main/binary-amd64/Packages
+ b1b78ec61156266d4a7c0ed855bab09f0b5169e8 865 main/binary-amd64/Packages.gz
+ 0d109c27706d0a927893b2cb1ba914a33cec2457 917 main/binary-amd64/Packages.bz2
+ 4814e9f406b235ed3cbe92b6c0a8767ca2bed3e8 118 main/binary-amd64/Release
+ 48707615c9fd5224c8995bcc45d582f42a9c89b0 2794 main/source/Sources
+ 301c435c4c01f1f7948ccbe686bd16748ab5b628 1315 main/source/Sources.gz
+ 3e6bd6194bcd615492e9d0aa4fc64d461e83b877 1439 main/source/Sources.bz2
+ fbcd9a4c410d71f778b2e3faeb0d8415bab70c0c 119 main/source/Release
+SHA256:
+ fc2e41b2b139e09dbc1f4c5c02116bd4e4f75a4a32b90ac063081eabfd93a98f 1495 main/binary-i386/Packages
+ 334d525ef403c6da6b1b132d48a64ba9fa83971edf8a614116ea05835251f6ad 863 main/binary-i386/Packages.gz
+ 6570b07768ce874ca35a9b66cd042d1439f49c725c4e8242592f52ef6bb98add 924 main/binary-i386/Packages.bz2
+ 4c3819476eae0c53a93d679c316bbc42896dc15c7c05c832beedcfe03c0ede30 117 main/binary-i386/Release
+ 249854359c0dedc43bbbf6be7e4424406b39a2ed08a14aa573163e1d83da117e 1499 main/binary-amd64/Packages
+ e6d190a7278c5539c1de6bb36f4a753448352f0d54db1446d7af63f25dade252 865 main/binary-amd64/Packages.gz
+ 197e92b36fe3034acfc34c2b28d953737bcc2d24278503d0f91a8fbec1de536e 917 main/binary-amd64/Packages.bz2
+ 622a62a035589196ee7d3301ccfd07161b9a3830517691fe3ee5b0d500b2dd3b 118 main/binary-amd64/Release
+ 50178331e84bcac1de539b8b34f59a6af967e188423984cab9eef2a74ca995a1 2794 main/source/Sources
+ 02ef8e62233f059e398df22c512a8d86d44de344f7be5638bcbbd9a6a1ab25bd 1315 main/source/Sources.gz
+ 0fab484acdb41c34ea35195c1326521a8e918e94de11620fb8f04f8966286b9f 1439 main/source/Sources.bz2
+ 88322b3e01e64fe89e799c4dba7f98273717dee596461b194b166a8dbd056585 119 main/source/Release

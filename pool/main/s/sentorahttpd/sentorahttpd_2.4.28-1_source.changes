@@ -1,0 +1,42 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Tue, 22 Aug 2017 16:40:00 +0200
+Source: sentorahttpd
+Binary: sentorahttpd
+Architecture: source
+Version: 2.4.28-1
+Distribution: trusty
+Urgency: low
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Changed-By: Kimpe Andy <andykimpe@gmail.com>
+Description: 
+ sentorahttpd - Apache HTTP Server
+Changes: 
+ sentorahttpd (2.4.28-1) trusty; urgency=low
+ .
+   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+Checksums-Sha1: 
+ 663e25188b52e881c6676b0267ce8c02102ecccb 1779 sentorahttpd_2.4.28-1.dsc
+ 0d3b76a01095d67303f334def7992fd43b37ed76 6752 sentorahttpd_2.4.28.orig.tar.xz
+ f7b7f14cb099092003642c634ef1f14a8efe4ba0 2671 sentorahttpd_2.4.28-1.debian.tar.gz
+Checksums-Sha256: 
+ a5a68b71ef14213c3087c38511ea3818a7cd3039a78c5e6a36d76206fdf0a834 1779 sentorahttpd_2.4.28-1.dsc
+ 44561f6c27b392ea8f56eefe2537367ac076abac15e1d655c67e720a3759b668 6752 sentorahttpd_2.4.28.orig.tar.xz
+ ce38a316fa65c7318bc3ff31d5ec6452257ecf15e41096dffd1d9bec71e6603c 2671 sentorahttpd_2.4.28-1.debian.tar.gz
+Files: 
+ 3c3bee40727e41b5347552487bc45570 1779 httpd optional sentorahttpd_2.4.28-1.dsc
+ 336789c121d3910314652452c3ed479b 6752 httpd optional sentorahttpd_2.4.28.orig.tar.xz
+ ac0e5063c38b7d0217f27368cc2eabdf 2671 httpd optional sentorahttpd_2.4.28-1.debian.tar.gz
+Original-Maintainer: Debian Apache Maintainers <debian-apache@lists.debian.org>
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iJwEAQECAAYFAlmdzzIACgkQotOGsA+RqAnRmQQAmEPI7Dfqhf63gYAcUnKT4mSt
++eBCmH0K8Jq11IkFYBWXLnE/t7zBKVCkYneoDEhc7EifDIvs/f4y6b7OCYp+Wqqp
+mBwuZbZ9Sm9C8JwpSqGpwjWkMLSbaSJeIdAJWyLMOfz0WLmy28Y9dk3Vc0XlfKl1
+GyJeHUfunz3YGJjPmSM=
+=qddf
+-----END PGP SIGNATURE-----

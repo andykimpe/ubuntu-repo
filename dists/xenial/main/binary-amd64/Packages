@@ -1,0 +1,25 @@
+Package: sentorahttpd
+Version: 2.4.28-1~xenial
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 38
+Depends: apache2
+Recommends: ssl-cert
+Suggests: www-browser, ufw
+Homepage: http://httpd.apache.org/
+Priority: optional
+Section: httpd
+Filename: pool/main/s/sentorahttpd/sentorahttpd_2.4.28-1~xenial_amd64.deb
+Size: 9072
+SHA256: d98bda24e08ee5b6081079157cf4701a9323a77a70f0b43e4fd9e990f39206db
+SHA1: 137896605a4c9cf87df58c9189f5b3e2cbfe0dd4
+MD5sum: 1c0e8bf5e825f1d0118cdcf2925e5223
+Description: Apache HTTP Server
+ The Apache Software Foundation's goal is to build a secure, efficient and
+ extensible HTTP server as standards-compliant open source software. The
+ result has long been the number one web server on the Internet.
+ .
+ This package contains the configuration files, init scripts and support
+ scripts. It does not install the actual apache2 binaries.
+Original-Maintainer: Debian Apache Maintainers <debian-apache@lists.debian.org>
+

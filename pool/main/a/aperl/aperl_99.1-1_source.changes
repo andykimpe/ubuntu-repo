@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Tue, 22 Aug 2017 21:28:21 +0200
+Source: aperl
+Binary: aperl
+Architecture: source
+Version: 99.1-1
+Distribution: trusty
+Urgency: low
+Maintainer: andy <andykimpe@gmail.com>
+Changed-By: Kimpe Andy <andykimpe@gmail.com>
+Description: 
+ aperl      - <insert up to 60 chars description>
+Changes: 
+ aperl (99.1-1) trusty; urgency=low
+ .
+   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+Checksums-Sha1: 
+ f9dd04d31fd4eea8ba95c82f344f0d95dad11752 1129 aperl_99.1-1.dsc
+ ec3752624fc4a9d2a467e791d10aa446b89e5569 126 aperl_99.1.orig.tar.bz2
+ 4d1f59b63c8041dcced23e0772c7af540aa92214 9426 aperl_99.1-1.debian.tar.gz
+Checksums-Sha256: 
+ 45e0d6b94b86952cdb820f315d94611379e9986b681bd7541bf286cc4e9fef6e 1129 aperl_99.1-1.dsc
+ c03abbf3d1e51f69ff2fe49b6935672b8c907ba4b30812870caac54681b3546a 126 aperl_99.1.orig.tar.bz2
+ a3e0bbd4e076d3c7be8c2941e8a7b917981bdc82e8d1cdf196a4b2860e1b0567 9426 aperl_99.1-1.debian.tar.gz
+Files: 
+ 57e163f82af3e0cfe136798f00e11377 1129 unknown optional aperl_99.1-1.dsc
+ 348fbd0b5d8d7a8320acbf766b60cd5c 126 unknown optional aperl_99.1.orig.tar.bz2
+ c02cf44add70acd4f64a0bedc30bf6d9 9426 unknown optional aperl_99.1-1.debian.tar.gz
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iJwEAQECAAYFAlmchyoACgkQotOGsA+RqAklZwQAmPWMKFc+KvH/1pjjvZC4Ie2p
+0YyNUGCblDn/viAxxOkL6enfqGS/uBO2YU17THapWfXJI1X++zNGPop8u8ngTeek
+73Sq9hY31MnWr4b/ZbWhnKs2tJi8yfzUXONcEdDVWwMRONlvF4FEVvcdmSmzLDym
+TVTKmJ58rbL4kkjtuQc=
+=yUst
+-----END PGP SIGNATURE-----

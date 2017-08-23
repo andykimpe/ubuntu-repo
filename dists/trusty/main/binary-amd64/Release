@@ -1,0 +1,5 @@
+Archive: trusty
+Version: 14.04
+Component: main
+Architecture: amd64
+Description: My packages for Ubuntu trusty (14.04)

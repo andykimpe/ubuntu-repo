@@ -1,0 +1,41 @@
+Package: aperl
+Version: 99.1-1
+Architecture: amd64
+Maintainer: andy <andykimpe@gmail.com>
+Installed-Size: 26
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/a/aperl/aperl_99.1-1_amd64.deb
+Size: 2158
+SHA256: 1c682e9063ffeaab4aedf3c156069a719c2efea0142f55cebcbd9a4cceceda76
+SHA1: 78a7e31d4800ce4dce524bb3c40c7d085d9c1957
+MD5sum: 56e8c9225a5850e27287d5ee967d865f
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+
+Package: sentorahttpd
+Version: 2.4.28-1
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 61
+Depends: apache2
+Recommends: ssl-cert
+Suggests: www-browser, ufw
+Homepage: http://httpd.apache.org/
+Priority: optional
+Section: httpd
+Filename: pool/main/s/sentorahttpd/sentorahttpd_2.4.28-1_amd64.deb
+Size: 9050
+SHA256: c894a3ad7599d585f093cd24271a691e51f351b713aa499237e117ae9f4a8201
+SHA1: 94a0d15db75861eac02b4506403af635dc64c4bd
+MD5sum: 0dbbee8b167e633339770d05d85f20e3
+Description: Apache HTTP Server
+ The Apache Software Foundation's goal is to build a secure, efficient and
+ extensible HTTP server as standards-compliant open source software. The
+ result has long been the number one web server on the Internet.
+ .
+ This package contains the configuration files, init scripts and support
+ scripts. It does not install the actual apache2 binaries.
+Original-Maintainer: Debian Apache Maintainers <debian-apache@lists.debian.org>
+

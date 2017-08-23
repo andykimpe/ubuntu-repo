@@ -1,0 +1,113 @@
+2017-08-21 18:08:54 replace trusty dsc main source ubuntu-meta2 1.325-1 1.325
+2017-08-21 18:37:41 replace trusty dsc main source ubuntu-meta2 1.325-2 1.325-1
+2017-08-21 18:48:59 replace trusty dsc main source ubuntu-meta2 1.325-3 1.325-2
+2017-08-21 19:06:30 replace trusty dsc main source ubuntu-meta2 1.325-4 1.325-3
+2017-08-21 19:42:38 replace trusty dsc main source ubuntu-meta2 1.325-5 1.325-4
+2017-08-21 19:48:48 replace trusty dsc main source ubuntu-meta2 1.325-6 1.325-5
+2017-08-21 19:59:04 replace trusty dsc main source ubuntu-meta2 1.325-7 1.325-6
+2017-08-21 20:35:08 replace trusty dsc main source ubuntu-meta2 1.325-8 1.325-7
+2017-08-21 20:38:51 replace trusty dsc main source ubuntu-meta2 1.325-9 1.325-8
+2017-08-21 20:47:23 replace trusty dsc main source ubuntu-meta2 1.325-10 1.325-9
+2017-08-21 20:56:15 add trusty deb main amd64 ubuntu-desktop2 1.325-10
+2017-08-21 20:56:15 add trusty deb main amd64 ubuntu-minimal2 1.325-10
+2017-08-21 20:56:16 add trusty deb main amd64 ubuntu-standard2 1.325-10
+2017-08-21 20:56:28 add trusty deb main i386 ubuntu-desktop2 1.325-10
+2017-08-21 20:56:28 add trusty deb main i386 ubuntu-minimal2 1.325-10
+2017-08-21 20:56:29 add trusty deb main i386 ubuntu-standard2 1.325-10
+2017-08-21 20:58:37 replace trusty dsc main source ubuntu-meta2 1.325-11 1.325-10
+2017-08-21 21:07:02 replace trusty dsc main source ubuntu-meta2 1.325-12 1.325-11
+2017-08-21 21:15:51 replace trusty dsc main source ubuntu-meta2 1.325-13 1.325-12
+2017-08-21 21:23:28 replace trusty dsc main source ubuntu-meta2 1.325-14 1.325-13
+2017-08-21 21:29:50 replace trusty deb main amd64 ubuntu-desktop2 1.325-14 1.325-10
+2017-08-21 21:29:51 replace trusty deb main amd64 ubuntu-minimal2 1.325-14 1.325-10
+2017-08-21 21:29:51 replace trusty deb main amd64 ubuntu-standard2 1.325-14 1.325-10
+2017-08-21 21:30:03 replace trusty deb main i386 ubuntu-desktop2 1.325-14 1.325-10
+2017-08-21 21:30:04 replace trusty deb main i386 ubuntu-minimal2 1.325-14 1.325-10
+2017-08-21 21:30:04 replace trusty deb main i386 ubuntu-standard2 1.325-14 1.325-10
+2017-08-21 22:13:53 replace trusty dsc main source ubuntu-meta2 1.325-15 1.325-14
+2017-08-21 22:37:48 replace trusty dsc main source ubuntu-meta2 1.325-16 1.325-15
+2017-08-21 22:38:04 replace trusty deb main amd64 ubuntu-desktop2 1.325-16 1.325-14
+2017-08-21 22:38:05 replace trusty deb main amd64 ubuntu-minimal2 1.325-16 1.325-14
+2017-08-21 22:38:06 replace trusty deb main amd64 ubuntu-standard2 1.325-16 1.325-14
+2017-08-21 22:38:17 replace trusty deb main i386 ubuntu-desktop2 1.325-16 1.325-14
+2017-08-21 22:38:18 replace trusty deb main i386 ubuntu-minimal2 1.325-16 1.325-14
+2017-08-21 22:38:19 replace trusty deb main i386 ubuntu-standard2 1.325-16 1.325-14
+2017-08-21 22:50:13 replace trusty dsc main source ubuntu-meta2 1.325-trusty 1.325-16
+2017-08-21 23:01:27 add trusty dsc main source ubuntu-meta2 1.325-trusty
+2017-08-21 23:01:43 add trusty deb main amd64 ubuntu-desktop2 1.325-trusty
+2017-08-21 23:01:44 add trusty deb main amd64 ubuntu-minimal2 1.325-trusty
+2017-08-21 23:01:44 add trusty deb main amd64 ubuntu-standard2 1.325-trusty
+2017-08-21 23:01:56 add trusty deb main i386 ubuntu-desktop2 1.325-trusty
+2017-08-21 23:01:56 add trusty deb main i386 ubuntu-minimal2 1.325-trusty
+2017-08-21 23:01:57 add trusty deb main i386 ubuntu-standard2 1.325-trusty
+2017-08-21 23:03:08 add trusty dsc main source ubuntu-meta2 1.325-trusty
+2017-08-21 23:03:22 add trusty deb main amd64 ubuntu-desktop2 1.325-trusty
+2017-08-21 23:03:22 add trusty deb main amd64 ubuntu-minimal2 1.325-trusty
+2017-08-21 23:03:22 add trusty deb main amd64 ubuntu-standard2 1.325-trusty
+2017-08-21 23:03:33 add trusty deb main i386 ubuntu-desktop2 1.325-trusty
+2017-08-21 23:03:33 add trusty deb main i386 ubuntu-minimal2 1.325-trusty
+2017-08-21 23:03:33 add trusty deb main i386 ubuntu-standard2 1.325-trusty
+2017-08-21 23:54:48 add xenial dsc main source ubuntu-meta2 1.325-xenial
+2017-08-22 00:16:06 replace trusty deb main amd64 ubuntu-desktop2 1.325-xenial 1.325-trusty
+2017-08-22 00:16:07 replace trusty deb main amd64 ubuntu-minimal2 1.325-xenial 1.325-trusty
+2017-08-22 00:16:07 replace trusty deb main amd64 ubuntu-standard2 1.325-xenial 1.325-trusty
+2017-08-22 00:16:19 replace trusty deb main i386 ubuntu-desktop2 1.325-xenial 1.325-trusty
+2017-08-22 00:16:20 replace trusty deb main i386 ubuntu-minimal2 1.325-xenial 1.325-trusty
+2017-08-22 00:16:21 replace trusty deb main i386 ubuntu-standard2 1.325-xenial 1.325-trusty
+2017-08-22 02:39:05 add trusty dsc main source apache2 2.4.27-1
+2017-08-22 02:56:18 add trusty deb main amd64 apache2 2.4.27-1
+2017-08-22 02:56:19 add trusty deb main amd64 apache2.2-bin 2.4.27-1
+2017-08-22 02:56:20 add trusty deb main amd64 apache2-bin 2.4.27-1
+2017-08-22 02:56:20 add trusty deb main i386 apache2-data 2.4.27-1
+2017-08-22 02:56:20 add trusty deb main amd64 apache2-data 2.4.27-1
+2017-08-22 02:56:21 add trusty deb main amd64 apache2-dbg 2.4.27-1
+2017-08-22 02:56:22 add trusty deb main amd64 apache2-dev 2.4.27-1
+2017-08-22 02:56:22 add trusty deb main i386 apache2-doc 2.4.27-1
+2017-08-22 02:56:22 add trusty deb main amd64 apache2-doc 2.4.27-1
+2017-08-22 02:56:23 add trusty deb main amd64 apache2-mpm-event 2.4.27-1
+2017-08-22 02:56:23 add trusty deb main amd64 apache2-mpm-itk 2.4.27-1
+2017-08-22 02:56:24 add trusty deb main amd64 apache2-mpm-prefork 2.4.27-1
+2017-08-22 02:56:25 add trusty deb main amd64 apache2-mpm-worker 2.4.27-1
+2017-08-22 02:56:25 add trusty deb main amd64 apache2-suexec 2.4.27-1
+2017-08-22 02:56:26 add trusty deb main amd64 apache2-suexec-custom 2.4.27-1
+2017-08-22 02:56:27 add trusty deb main amd64 apache2-suexec-pristine 2.4.27-1
+2017-08-22 02:56:27 add trusty deb main amd64 apache2-utils 2.4.27-1
+2017-08-22 02:56:28 add trusty deb main amd64 libapache2-mod-macro 1:2.4.27-1
+2017-08-22 02:56:29 add trusty deb main amd64 libapache2-mod-proxy-html 1:2.4.27-1
+2017-08-22 02:59:40 add trusty deb main i386 apache2 2.4.27-1
+2017-08-22 02:59:41 add trusty deb main i386 apache2.2-bin 2.4.27-1
+2017-08-22 02:59:42 add trusty deb main i386 apache2-bin 2.4.27-1
+2017-08-22 02:59:42 add trusty deb main i386 apache2-dbg 2.4.27-1
+2017-08-22 02:59:43 add trusty deb main i386 apache2-dev 2.4.27-1
+2017-08-22 02:59:44 add trusty deb main i386 apache2-mpm-event 2.4.27-1
+2017-08-22 02:59:45 add trusty deb main i386 apache2-mpm-itk 2.4.27-1
+2017-08-22 02:59:45 add trusty deb main i386 apache2-mpm-prefork 2.4.27-1
+2017-08-22 02:59:46 add trusty deb main i386 apache2-mpm-worker 2.4.27-1
+2017-08-22 02:59:47 add trusty deb main i386 apache2-suexec 2.4.27-1
+2017-08-22 02:59:47 add trusty deb main i386 apache2-suexec-custom 2.4.27-1
+2017-08-22 02:59:48 add trusty deb main i386 apache2-suexec-pristine 2.4.27-1
+2017-08-22 02:59:49 add trusty deb main i386 apache2-utils 2.4.27-1
+2017-08-22 02:59:49 add trusty deb main i386 libapache2-mod-macro 1:2.4.27-1
+2017-08-22 02:59:50 add trusty deb main i386 libapache2-mod-proxy-html 1:2.4.27-1
+2017-08-22 21:00:01 add trusty dsc main source sentorahttpd 2.4.27-2
+2017-08-22 21:18:03 add trusty deb main amd64 sentorahttpd 2.4.27-2
+2017-08-22 21:20:38 add trusty deb main i386 sentorahttpd 2.4.27-2
+2017-08-22 21:34:27 add trusty dsc main source aperl 99.1-1
+2017-08-22 21:35:41 add trusty deb main amd64 aperl 99.1-1
+2017-08-22 21:35:51 add trusty deb main i386 aperl 99.1-1
+2017-08-23 15:55:44 replace trusty dsc main source sentorahttpd 2.4.27-3 2.4.27-2
+2017-08-23 15:59:22 replace trusty deb main amd64 sentorahttpd 2.4.27-3 2.4.27-2
+2017-08-23 16:01:54 replace trusty deb main i386 sentorahttpd 2.4.27-3 2.4.27-2
+2017-08-23 16:24:25 add trusty dsc main source aperl 99.1-1
+2017-08-23 16:26:05 add trusty dsc main source sentorahttpd 2.4.27-3
+2017-08-23 16:29:00 add trusty deb main amd64 aperl 99.1-1
+2017-08-23 16:29:17 add trusty deb main i386 aperl 99.1-1
+2017-08-23 16:29:28 add trusty deb main amd64 sentorahttpd 2.4.27-3
+2017-08-23 16:29:35 add trusty deb main i386 sentorahttpd 2.4.27-3
+2017-08-23 21:02:00 replace trusty dsc main source sentorahttpd 2.4.28-1 2.4.27-3
+2017-08-23 21:03:14 replace trusty deb main amd64 sentorahttpd 2.4.28-1 2.4.27-3
+2017-08-23 21:03:28 replace trusty deb main i386 sentorahttpd 2.4.28-1 2.4.27-3
+2017-08-23 21:15:37 add xenial dsc main source sentorahttpd 2.4.28-1~xenial
+2017-08-23 21:19:09 add xenial deb main amd64 sentorahttpd 2.4.28-1~xenial
+2017-08-23 21:19:25 add xenial deb main i386 sentorahttpd 2.4.28-1~xenial
+2017-08-23 21:54:55 add xenial dsc main source php5 5.5.9+dfsg-1ubuntu4.23
